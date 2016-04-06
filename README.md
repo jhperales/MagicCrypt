@@ -19,8 +19,10 @@ All other versions of this software must be uploaded to GitHub (https://github.c
 If it is uncertain whether a permission is granted, the permission is by default revoked unless otherwise specified by Alex.
 
 These terms can be changed by Alex at any time and without warning.
+https://raw.githubusercontent.com/crash0verrid3/MagicCrypt/master/README.md and https://github.com/crash0verrid3/MagicCrypt/blob/master/README.md both contain the latest terms of this license. If they are changed by Alex, they override any previous versions and go into effect immediately, unless otherwise specified within itself.
 
-^^^^^^^^^^ --- Anything above this line, including this line, must be copied exactly from the original version --- ^^^^^^^^^^
+
+^^^^^^^^ Anything above this line, including this line, must be copied exactly from the original version of this file ^^^^^^^^
 
 ### HELPFUL INFO:
 
