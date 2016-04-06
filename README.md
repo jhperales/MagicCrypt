@@ -22,6 +22,6 @@ These terms can be changed by Alex at any time and without warning.
 
 ^^^^^^^^^^ --- Anything above this line, including this line, must be copied exactly from the original version --- ^^^^^^^^^^
 
-### README:
+### HELPFUL INFO:
 
-*The README has not been added yet.*
+*The HELPFUL INFO section of this file has not been added yet.*
