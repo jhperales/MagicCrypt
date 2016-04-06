@@ -17,6 +17,7 @@ All other versions of this software must be uploaded to GitHub (https://github.c
 1. The version of this software in question has been granted express permission from Alex to do otherwise, can provide adequite proof that they have been granted permission, can provide adequite proof of exactly what permissions they have been granted, and the permission has not been revoked. Alex reserves the right to revoke any permissions at any time, taking effect immediately unless otherwise specified by Alex. Any permissions granted through a media that has been compromised are voided and revoked, unless otherwise specified by Alex through a medium that has not been compromised.
 
 If it is uncertain whether a permission is granted, the permission is by default revoked unless otherwise specified by Alex.
+Alex can revoke any permissions at any time, including those explicitly granted by this license.
 
 These terms can be changed by Alex at any time and without warning.
 https://raw.githubusercontent.com/crash0verrid3/MagicCrypt/master/README.md and https://github.com/crash0verrid3/MagicCrypt/blob/master/README.md both contain the latest terms of this license. If they are changed by Alex, they override any previous versions and go into effect immediately, unless otherwise specified within itself.
