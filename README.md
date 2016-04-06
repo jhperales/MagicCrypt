@@ -4,7 +4,7 @@ An encryption algorithm based on magic numbers designed to be truly unbreakable,
 ### LICENSE:
 
 As used in this README/LICENSE, the term "version" means anything based on, inspired by, or otherwise connected to this software, including but not limited to:
-1. Any alternative interfaces designed for this software
+1. Any alternative user interfaces designed for this software
 2. Similar programs/algorithms which can be traced back in origin to this software or GitHub repository
 4. Anything designed to supplement this software or GitHub repository
 5. Any modifications made to this software
