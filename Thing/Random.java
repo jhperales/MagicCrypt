@@ -6,6 +6,7 @@ public class Random
     private static BigInteger[] xmod = new BigInteger[3];
     private static BigInteger tfs = new BigInteger("256");
     private static BigInteger recstates = new BigInteger("512").pow(1024);
+    private static BigInteger[] dxmod = new BigInteger[]{new BigInteger("177"), new BigInteger("176"), new BigInteger("178")}
     public static BigInteger stoi(String f)
     {
         BigInteger ret = BigInteger.ZERO;
@@ -57,7 +58,7 @@ public class Random
         seed[2] = z.add(BigInteger.ONE);
     }
     public static void seed(BigInteger a){
-        seed(millis().multiply(recstates), recstates);
+        seed(a, recstates);
     }
     public static void seed(){
         seed(millis().multiply(recstates));
