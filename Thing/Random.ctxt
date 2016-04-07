@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=f
+comment0.target=java.math.BigInteger\ stoi(java.lang.String)
+comment1.params=min\ max
+comment1.target=java.math.BigInteger\ randint(java.math.BigInteger,\ java.math.BigInteger)
+comment2.params=min\ max
+comment2.target=java.math.BigInteger\ randint(int,\ int)
+comment3.params=
+comment3.target=java.math.BigInteger\ randlong()
+comment4.params=a\ b
+comment4.target=void\ seed(java.math.BigInteger,\ java.math.BigInteger)
+comment5.params=a
+comment5.target=void\ seed(java.math.BigInteger)
+comment6.params=
+comment6.target=void\ seed()
+comment7.params=
+comment7.target=java.math.BigInteger\ millis()
+comment8.params=o
+comment8.target=java.math.BigInteger\ hash(java.lang.Object)
+numComments=9
